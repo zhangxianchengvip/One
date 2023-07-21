@@ -2,7 +2,7 @@
 
 namespace One.OSS
 {
-    public static class ObjectStorageServiceCollectionExtensions
+    public static class OneObjectStorageServiceCollectionExtensions
     {
 
     }
